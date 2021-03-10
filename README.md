@@ -4,4 +4,6 @@
 [![](https://raw.githubusercontent.com/fumiyanll23/fumiyanll23/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/fumiyanll23/fumiyanll23/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+[![Haskell CI](https://github.com/fumiyanll23/HaskellProject/actions/workflows/haskell.yml/badge.svg)](https://github.com/fumiyanll23/HaskellProject/actions/workflows/haskell.yml)
+
 ![](https://komarev.com/ghpvc/?username=fumiyanll23&color=orange)
